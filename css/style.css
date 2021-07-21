@@ -1216,7 +1216,7 @@ a:focus {
     position: relative;
     margin: 45px 0;
     padding: 90px 0;
-    background: #ffff00;
+    background: #343432;
 }
 
 .testimonial .container {
@@ -1224,13 +1224,13 @@ a:focus {
 }
 
 .testimonial .testimonial-icon {
-    margin-bottom: 45px;
+    margin-bottom: 450px;
     text-align: center;
 }
 
 .testimonial .testimonial-icon i {
-    font-size: 60px;
-    color: rgba(256, 256, 256, .5);
+    font-size: 600px;
+    color: rgba(52, 52, 50, .5);
 }
 
 .testimonial .testimonial-item {
