@@ -1240,17 +1240,14 @@ a:focus {
 }
 
 .testimonial .testimonial-img {
-    position: relative;
-    margin-bottom: 15px;
-    z-index: 1;
+    width: 800px;
+    height: 800px;
 }
 
 .testimonial .testimonial-item img {
-    margin: 0 auto;
-    width: 700px;
-    padding: 10px;
-    border: 5px dotted #ffffff;
-    border-radius: 100px;
+   Height 800px;
+    width: 800px;
+    
 }
 
 .testimonial .testimonial-text {
