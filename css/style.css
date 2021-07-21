@@ -1216,7 +1216,7 @@ a:focus {
     position: relative;
     margin: 45px 0;
     padding: 90px 0;
-    background: #343432;
+    background: #EF233C;
 }
 
 .testimonial .container {
@@ -1230,24 +1230,27 @@ a:focus {
 
 .testimonial .testimonial-icon i {
     font-size: 60px;
-    color: rgba(52, 52, 50, .5);
+    color: rgba(256, 256, 256, .5);
 }
 
 .testimonial .testimonial-item {
     position: relative;
-    margin: 45px;
+    margin: 0 15px;
     text-align: center;
 }
 
 .testimonial .testimonial-img {
-    width: 800px;
-    height: 800px;
+    position: relative;
+    margin-bottom: 15px;
+    z-index: 1;
 }
 
 .testimonial .testimonial-item img {
-   Height 800px;
-    width: 800px;
-    
+    margin: 0 auto;
+    width: 120px;
+    padding: 10px;
+    border: 5px dotted #ffffff;
+    border-radius: 100px;
 }
 
 .testimonial .testimonial-text {
