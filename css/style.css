@@ -1224,12 +1224,12 @@ a:focus {
 }
 
 .testimonial .testimonial-icon {
-    margin-bottom: 450px;
+    margin-bottom: 45px;
     text-align: center;
 }
 
 .testimonial .testimonial-icon i {
-    font-size: 600px;
+    font-size: 60px;
     color: rgba(52, 52, 50, .5);
 }
 
@@ -1247,7 +1247,7 @@ a:focus {
 
 .testimonial .testimonial-item img {
     margin: 0 auto;
-    width: 120px;
+    width: 700px;
     padding: 10px;
     border: 5px dotted #ffffff;
     border-radius: 100px;
