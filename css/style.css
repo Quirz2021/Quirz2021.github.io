@@ -1249,8 +1249,8 @@ a:focus {
     margin: 0 auto;
     width: 120px;
     padding: 10px;
-    border: 5px dotted #ffffff;
-    border-radius: 800px;
+    /** border: 5px dotted #ffffff;
+    border-radius: 800px;**/
 }
 
 .testimonial .testimonial-text {
