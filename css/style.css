@@ -247,7 +247,8 @@ a:focus {
 /*******************************/
 .hero {
     position: relative;
-    width: 100%;
+    max-width: 100%;
+    Height: Auto;
     margin-bottom: 45px;
     padding: 120px 0 0 0;
     overflow: hidden;
@@ -268,17 +269,16 @@ a:focus {
 }
 
 .hero .hero-image img {
-    max-width: 80%;
-    max-height: 80%;
+    max-width: 100%;
+    height: auto;
 }
 
 .hero .hero-content {
     position: relative;
-    padding-left: 75px;
-    display: flex;
-    align-items: flex-start;
+    padding-left: 10px;
+    align-items: center;
     justify-content: center;
-    flex-direction: column;
+    
 }
 
 .hero .hero-text p {
@@ -306,7 +306,7 @@ a:focus {
 }
 
 .hero .hero-text .typed-text {
-    display: none;
+    display: inline;
 }
 
 .hero .hero-text .typed-cursor {
