@@ -276,8 +276,8 @@ a:focus {
 .hero .hero-content {
     position: relative;
     padding-left: 75px;
-    display: flex;
-    align-items: flex-start;
+  /*  display: flex;
+    align-items: flex-start; */
     align-items: center;
     justify-content: center;
     
