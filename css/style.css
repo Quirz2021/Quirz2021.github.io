@@ -130,7 +130,7 @@ a:focus {
 }
 
 .responsive {
-  width: 100%;
+  max-width: 100%;
   height: auto;
 }
 /**********************************/
@@ -139,7 +139,7 @@ a:focus {
 .navbar {
     position: relative;
     transition: .5s;
-    z-index: 999;
+    z-index: 999;7
 }
 
 .navbar.nav-sticky {
@@ -306,7 +306,7 @@ a:focus {
 }
 
 .hero .hero-text .typed-text {
-    display: inline;
+    display: none;
 }
 
 .hero .hero-text .typed-cursor {
